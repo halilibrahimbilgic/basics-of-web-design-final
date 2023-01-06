@@ -1,0 +1,40 @@
+.css-text-style {
+	color: #000000;
+	text-align: justify;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	font-size: 18px;
+	padding: 59px;
+}
+h1{
+    text-align: center;
+}
+.button {
+    margin-left: 40%;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+    background:rgb(82, 74, 160);
+    height: 80px;
+    width: 185px;
+    border-radius: auto;
+    cursor: pointer;
+    display: inline-block;
+}
+p {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: auto;
+    margin-right: 30%;
+    font-size: 18px;
+    font: bolder;
+    background-color: none;
+}
+body{
+    background-color:beige;
+}
+.iletisim{
+    float: right;
+    margin-top: 6%;
+}
