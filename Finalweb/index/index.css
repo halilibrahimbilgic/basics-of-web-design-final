@@ -1,0 +1,45 @@
+body{
+	background-image:none;
+	background-color:beige;
+}
+h1{
+    text-align: center;
+}
+.button {
+    margin-left: 50%;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+    background:rgb(94, 84, 184);
+    height: 43px;
+    width: 240px;
+    border-radius: 30px;
+    cursor: pointer;
+    display: inline-block;
+}
+p {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: auto;
+    margin-right: 35%;
+    font-size: 18px;
+    font: bolder;
+    background-color: none;
+}
+h4{
+	float: right;
+    margin-top: 0%;
+    margin-left: 75%;
+}
+h2{
+	margin-left: 5%;
+}
+.van{
+    float: right;
+    margin-right: 3%;
+}
+.iletisim{
+    float: right;
+    margin-top: 8%;
+}
